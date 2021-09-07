@@ -7,6 +7,7 @@ class HomeAutomation{
     int a = 3;
     
     System.out.println("Welcome to my Home");
+    System.out.println("Welcome to my Home, I am Phan Tuan Nhat, ococ");
     
   }
 }
